@@ -1,0 +1,184 @@
+{
+    "format": "CHIP-0007",
+    "name": "BSH Number #MjEyNQ==",
+    "description": "100,000 NFTs on Chia, from BSH community.",
+    "sensitive_content": false,
+    "collection": {
+        "name": "BSH Number Series NFTs",
+        "id": "d8592369-745e-49a5-8c61-324416bcbaa6",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "100,000 NFTs on Chia, from BSH community."
+            },
+            {
+                "type": "icon",
+                "value": "https://bafybeifryvyui4gshimmxl26uec3ol3kummjnuljb34vt7gl7cgml3hnrq.ipfs.nftstorage.link/icon.png"
+            },
+            {
+                "type": "banner",
+                "value": "https://bafybeidejaow2lx2t5usgrd6c5p5pq4kleygb3hihlldq2wianx2fifxru.ipfs.nftstorage.link/banner.png"
+            },
+            {
+                "type": "website",
+                "value": "https://brothershiwan.com"
+            },
+            {
+                "type": "twitter",
+                "value": "@brothershiwan"
+            },
+            {
+                "type": "discord",
+                "value": "https://discord.com/invite/J3qJDWbEYb"
+            },
+            {
+                "type": "did",
+                "value": "did:chia:1jaax757admslkd6525xyjwz9hc9zk8xcy52l8gp44lgjyed9mztsc3lp6a"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Number",
+            "value": "90983"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Style",
+            "value": "020"
+        },
+        {
+            "trait_type": "Words",
+            "value": "5ou/5Ye65LiA5oqK6L2m6ZKl5YyZ77yM5LiN5aaC5omT5byA5b6u5L+h77yM5L2g55yL77yM5oiR5ZyoeGNo576k44CC"
+        },
+        {
+            "trait_type": "Color",
+            "value": [
+                [
+                    183,
+                    213,
+                    194,
+                    255
+                ],
+                [
+                    179,
+                    122,
+                    68,
+                    255
+                ],
+                [
+                    178,
+                    68,
+                    111,
+                    255
+                ],
+                [
+                    199,
+                    192,
+                    76,
+                    255
+                ],
+                [
+                    112,
+                    236,
+                    10,
+                    255
+                ],
+                [
+                    193,
+                    215,
+                    146,
+                    255
+                ],
+                [
+                    102,
+                    240,
+                    82,
+                    255
+                ],
+                [
+                    21,
+                    235,
+                    79,
+                    255
+                ],
+                [
+                    48,
+                    8,
+                    139,
+                    255
+                ],
+                [
+                    154,
+                    138,
+                    0,
+                    255
+                ],
+                [
+                    226,
+                    65,
+                    185,
+                    255
+                ],
+                [
+                    8,
+                    56,
+                    156,
+                    255
+                ],
+                [
+                    112,
+                    151,
+                    172,
+                    255
+                ],
+                [
+                    182,
+                    102,
+                    102,
+                    255
+                ],
+                [
+                    89,
+                    128,
+                    146,
+                    255
+                ],
+                [
+                    205,
+                    48,
+                    138,
+                    255
+                ],
+                [
+                    183,
+                    55,
+                    147,
+                    255
+                ],
+                [
+                    56,
+                    160,
+                    238,
+                    255
+                ]
+            ]
+        },
+        {
+            "trait_type": "Timestamp",
+            "value": 1659716948
+        },
+        {
+            "trait_type": "BackgroundColor",
+            "value": [
+                189,
+                77,
+                189,
+                32
+            ]
+        }
+    ]
+}
