@@ -1,0 +1,184 @@
+{
+    "format": "CHIP-0007",
+    "name": "BSH Number #NDcxNQ==",
+    "description": "100,000 NFTs on Chia, from BSH community.",
+    "sensitive_content": false,
+    "collection": {
+        "name": "BSH Number Series NFTs",
+        "id": "d8592369-745e-49a5-8c61-324416bcbaa6",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "100,000 NFTs on Chia, from BSH community."
+            },
+            {
+                "type": "icon",
+                "value": "https://bafybeifryvyui4gshimmxl26uec3ol3kummjnuljb34vt7gl7cgml3hnrq.ipfs.nftstorage.link/icon.png"
+            },
+            {
+                "type": "banner",
+                "value": "https://bafybeidejaow2lx2t5usgrd6c5p5pq4kleygb3hihlldq2wianx2fifxru.ipfs.nftstorage.link/banner.png"
+            },
+            {
+                "type": "website",
+                "value": "https://brothershiwan.com"
+            },
+            {
+                "type": "twitter",
+                "value": "@brothershiwan"
+            },
+            {
+                "type": "discord",
+                "value": "https://discord.com/invite/J3qJDWbEYb"
+            },
+            {
+                "type": "did",
+                "value": "did:chia:1jaax757admslkd6525xyjwz9hc9zk8xcy52l8gp44lgjyed9mztsc3lp6a"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Number",
+            "value": "87774"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Copper"
+        },
+        {
+            "trait_type": "Style",
+            "value": "001"
+        },
+        {
+            "trait_type": "Words",
+            "value": "MTPlubTliY3lt7Toj7LnibkxOOS6v+a4r+W4geS5sOWFpeavlOS6mui/qu+8jOWmguS7iuS7t+WAvDY3MOS6v+a4r+W4geOAguW3tOiPsueJuTIwMDjlubQxOOS6v+a4r+W4geWcqDjlhYPkubDkuoYyLjI15Lq/6IKh5LiA55u05ou/552A77yM546w5Zyo5riv6IKhMjk35riv5biB57+75LqGMzflgI3vvIxB6IKh5Lu3MzA25YWD44CC"
+        },
+        {
+            "trait_type": "Color",
+            "value": [
+                [
+                    180,
+                    135,
+                    15,
+                    255
+                ],
+                [
+                    74,
+                    82,
+                    176,
+                    255
+                ],
+                [
+                    207,
+                    200,
+                    88,
+                    255
+                ],
+                [
+                    163,
+                    149,
+                    160,
+                    255
+                ],
+                [
+                    84,
+                    62,
+                    45,
+                    255
+                ],
+                [
+                    125,
+                    159,
+                    169,
+                    255
+                ],
+                [
+                    178,
+                    188,
+                    72,
+                    255
+                ],
+                [
+                    206,
+                    153,
+                    55,
+                    255
+                ],
+                [
+                    133,
+                    155,
+                    251,
+                    255
+                ],
+                [
+                    210,
+                    251,
+                    168,
+                    255
+                ],
+                [
+                    174,
+                    125,
+                    74,
+                    255
+                ],
+                [
+                    36,
+                    7,
+                    116,
+                    255
+                ],
+                [
+                    107,
+                    161,
+                    137,
+                    255
+                ],
+                [
+                    219,
+                    23,
+                    141,
+                    255
+                ],
+                [
+                    86,
+                    44,
+                    61,
+                    255
+                ],
+                [
+                    106,
+                    193,
+                    77,
+                    255
+                ],
+                [
+                    107,
+                    126,
+                    190,
+                    255
+                ],
+                [
+                    94,
+                    150,
+                    28,
+                    255
+                ]
+            ]
+        },
+        {
+            "trait_type": "Timestamp",
+            "value": 1660513329
+        },
+        {
+            "trait_type": "BackgroundColor",
+            "value": [
+                81,
+                65,
+                250,
+                32
+            ]
+        }
+    ]
+}
